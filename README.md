@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Carmen</h1>
 <h3 align="center">Software Development graduate of the University of Glasgow</h3>
 
-- 👾 I'm particularly interested in games development, and have experience with Unity Game Engine, C#, and Blender 
+- 👾 I'm particularly interested in games development, and have experience using Unity Game Engine, C#, and Blender 
 - ☕️ I also enjoy programming with Java 
 - 💻 I have experience working in both SWE and DevOps 
 
